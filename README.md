@@ -1,10 +1,8 @@
-# Layout Projeto,  Tela de Login
+# Layout Projeto,  Calcule sua parcela
 
 <a target="_blank">
-<target=_blank><img align="center"  alt="jonas-Dev" width="492" height="298"  src ="https://github.com/user-attachments/assets/84c3d460-26a4-438e-8283-a7449ba733d7"" style="max-width: 100%;"></img></target>
+<target=_blank><img align="center"  alt="jonas-Dev" width="313" height="400" src ="https://github.com/user-attachments/assets/6fa0c85c-c6b7-452e-a8c8-6f4e71150991" style="max-width: 100%;"></img></target>
 </a>
-
-
 
 # Logo C#
 
@@ -12,11 +10,11 @@
 <target=_blank><img align="center"  alt="jonas-C#" height ="300" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
 </a>
 
-# Projeto Tela de login e principal, Programação Orientado Objeto  C#
+# Projeto Calcule sua parcela, Programação Orientado Objeto  C#
 
 # Sobre o Projeto
 
-- Sistema tela de login e principal, projeto Orientação objeto em C#
+- Sistema para calcular sua parcela, projeto Orientação objeto em C#
 - Treinamento e atualização no aprendizado em programação orientado objeto
 - Treinamento , aprendendo a desenvolver, attributos, construtores, metodos, desenvolvimentos de telas, organização de classe em C#
 - Projeto remoto, sem banco de dados.
@@ -33,18 +31,11 @@
 
 # Como Executa o Projeto
 
-- Sistema tela de login
-- Sistema tela principal
-- Obs: Dentro a Pasta Obj/Debug, tem o programa executavel / Usuario e Senha = teste
+- Sistema calcule sua parcela
+- Obs: Dentro a Pasta Obj/Debug, tem o programa executavel
  
 
 # Autor
 
 - Jonas Valereo - Técnico em Informática
   
-
-
-
-
-# ProgramaCalculoParcela
-# Obs: Dentro a Pasta Obj/Debug, tem o programa executavel 
